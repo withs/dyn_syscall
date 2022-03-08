@@ -1,3 +1,28 @@
-// credit := https://www.unknowncheats.me/forum/anti-cheat-bypass/251936-calling-directly-zwreadvirtualmemory-avoid-user-mode-hooks-based-detection.html.
-// credit := https://github.com/PierreCiholas/DirectZwRWVM.
-// this code work only in 64bit (due to shellcodes).
+Dyn_syscall
+===========
+
+Description
+-----------
+
+    Dyn_syscall is a little lib wich allow you to call windows syscall at runtime.
+
+Know issues
+-----------
+
+    - this code work only in 64bit
+
+Docs
+----
+
+    ->  https://withs.github.io/dyn_syscall/
+
+Build & Use
+-----------
+
+    1. v install --git https://github.com/withs/dyn_syscall
+
+
+Credit
+------
+    - https://www.unknowncheats.me/forum/anti-cheat-bypass/251936-calling-directly-zwreadvirtualmemory-avoid-user-mode-hooks-based-detection.html.
+    - https://github.com/PierreCiholas/DirectZwRWVM.
