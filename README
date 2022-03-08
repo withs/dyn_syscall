@@ -1,0 +1,3 @@
+// credit := https://www.unknowncheats.me/forum/anti-cheat-bypass/251936-calling-directly-zwreadvirtualmemory-avoid-user-mode-hooks-based-detection.html.
+// credit := https://github.com/PierreCiholas/DirectZwRWVM.
+// this code work only in 64bit (due to shellcodes).
